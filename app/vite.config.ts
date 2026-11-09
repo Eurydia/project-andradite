@@ -19,7 +19,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/project-textile/',
+  base: '/project-andradite/',
   define: {
     __APP_NAME__: JSON.stringify(`Textile`),
   },
